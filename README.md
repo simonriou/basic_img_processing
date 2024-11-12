@@ -16,6 +16,11 @@ pip install numpy matplotlib scikit-image scipy
 
 ## Mosaicking Script
 ### Usage
-- Place your target image in the `Target_images/` directory (or use one of the original ones) and adjust the name of the target file on line 21
-- Place your patches in the `patches` directory (or use the original ones)
+- Place your target image in the `Target_images/` directory and adjust the name of the target file on line 21
+- Place your patches in the `patches` directory
+- Run the script in your Python environment
+
+## Sketching Script
+### Usage
+- Upload to your directory a `input.jpg` file that will be used for sketching
 - Run the script in your Python environment
