@@ -10,7 +10,7 @@ This project consists of two scripts: an image **mosaicking** script and an imag
 ## Requirements
 
 Install the required Python libraries using:
-```python
+```bash
 pip install numpy matplotlib scikit-image scipy
 ```
 
